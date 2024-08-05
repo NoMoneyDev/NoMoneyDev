@@ -4,5 +4,5 @@
 I'm studying at Kasetsart University
 I like playing video games and sometimes create one
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMoneyDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoMoneyDev&theme=chartreuse-dark)
+<p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoMoneyDev&&count_private=true&show_icons=true&theme=chartreuse-dark" alt="NoMoneyDev Github stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoMoneyDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="NoMoneyDev Programming skills stats" align = "center"/></p>
